@@ -19,7 +19,7 @@ Estou cursando Qualidade de Software pela EBAC, realizando diversos treinamentos
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flayfe&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flayfe&layout=compact&langs_count=7&theme=bear"/>
 </div><br/>
-  <h4 align="center">Ferramentas e tecnologias:</h4>
+<h4 align="center">Ferramentas e tecnologias:</h4>
 <div align="center" style="display: inline_block"><br/>
   <img align="center" alt="Icon-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" alt="Icon-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
@@ -36,6 +36,8 @@ Estou cursando Qualidade de Software pela EBAC, realizando diversos treinamentos
   <img align="center" alt="Icon-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Icon-JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Icon-NodeJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- 
-  
-</div>  
+</div><br/><br/>
+<div align="center">
+    <a href="https://discordapp.com/users/Flayfe#6758" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/flaviafesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
