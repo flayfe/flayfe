@@ -9,10 +9,11 @@
 
 <h4 align="center">Também me chamam de Fernanda, Nanda, Fer, Flavinha, Flavitcha... Sinta-se à vontade para escolher!</h4>
 
-<h6 align="center">Sou uma profissional em transição de carreira buscando oportunidade como Analista de qualidade de software Jr. <br />
+<h6 align="center">Sou Analista de qualidade de software Jr. <br />
 Possuo conhecimento em fundamentos, técnicas e métricas de teste de software, nas metodologias ágeis Scrum e Kanban,Git e Github, Java, JavaScript, Node.Js e Gherkin, automatização de testes WEB em Cypress, construção de cenários de teste com Cucumber e teste de API Rest com Postman. <br />
-Tenho experiência em consulta a banco de dados Microsoft SQL Server, análise de dados, manutenção de emissão de relatórios em Python.<br />
-Estou cursando Qualidade de Software pela EBAC, realizando diversos treinamentos voltados para a área de qualidade e tenho mentorias com uma QA Sênior.<br /></h6>
+Tenho experiência em consulta a banco de dados Microsoft SQL Server e Oracle, análise de dados, testes manuais e integrados, criação de casos de testes. 
+Atualmente estou estudando automatização de testes com Java e Selenium.<br />
+<br /></h6>
 
 <div align="center">
   <a href="https://github.com/flayfe">
