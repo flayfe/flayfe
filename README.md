@@ -11,7 +11,7 @@
 
 <h6 align="center">Sou Analista de qualidade de software Jr. <br />
 Possuo conhecimento em fundamentos, técnicas e métricas de teste de software, nas metodologias ágeis Scrum e Kanban,Git e Github, Java, JavaScript, Node.Js e Gherkin, automatização de testes WEB em Cypress, construção de cenários de teste com Cucumber e teste de API Rest com Postman. <br />
-Tenho experiência em consulta a banco de dados Microsoft SQL Server e Oracle, análise de dados, testes manuais e integrados, criação de casos de testes. 
+Tenho experiência em consulta a banco de dados Microsoft SQL Server e Oracle, análise de dados, testes manuais e integrados, criação de casos de testes. <br />
 Atualmente estou estudando automatização de testes com Java e Selenium.<br />
 <br /></h6>
 
