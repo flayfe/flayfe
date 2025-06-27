@@ -29,7 +29,6 @@ Atualmente estou estudando automatização de testes.<br />
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Icon-Git" height="30" width="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
   <img align="center" alt="Icon-Cypress" height="30" width="30" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4">
   <img align="center" alt="Icon-Cucumber" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Icon-Office" height="30" width="30" src="https://www.cursou.com.br/wp-content/uploads/2016/09/Curso-de-Office-2016.png">
